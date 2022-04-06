@@ -34,7 +34,7 @@
 
 bash
 # Clone this repository
-$ git clone https://github.com/hsynarsln/Django-Flight-Reservation-App.git
+$ git clone https://github.com/DMTBusra/FlightAppp.git
 
 # Install dependencies
     $ python -m venv env
